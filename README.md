@@ -1,3 +1,8 @@
 - 👋 Hi, I’m @Comingupwithnames
 - 👀 I’m interested in coding of course
-- 🌱 I’m currently learning assembly code on x86
+- Here's a list of languages I already know:
+-   Java          (2 years)
+-   Assembly x86  (1 year)
+-   XML           (1 year)
+-   C             (1 year)
+- 🌱 I’m currently learning HTML, CSS, Javascript, SQL, and Python
